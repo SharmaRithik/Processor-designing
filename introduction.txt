@@ -1,2 +1,6 @@
 1.BASIC COMPONENTS REQUIRED 
-	
+	1.1 alu
+	1.2 control unit
+	1.3 input memory
+	1.4 output memory
+	1.5 main memory	
