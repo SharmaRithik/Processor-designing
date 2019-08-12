@@ -1,1 +1,19 @@
-bbnfdl;'
+diagram link : https://bit.ly/31E3Ral
+1.ALU
+	1.1 carries out basic arthematic operations on operands 
+	1.2 in some computers it is divided into
+		1.2.1 AU(arthimetic unit)
+		1.2.2 LU(logic unit)
+	1.3 some computers have more than 1 alu
+		1.3.1 to perform fixed operations
+		1.3.2 to perform floating operations
+	1.4 alu has direct input and output access to the processor controller, main memory and input output devices
+	1.5 input & output flow along a electric path called a BUS
+	1.6 the input is called 
+		1.6.1 instruction word
+		1.6.2 machine instrucion word
+		1.6.3 op code (operation code)
+		1.6.4 format code when there are more than 2 operands
+	1.7 
+
+ 
